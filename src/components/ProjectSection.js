@@ -1,7 +1,9 @@
 import React from "react";
 
 import Project from "./Project";
+import Section from "./Section";
 import project_data from "../misc/project_data";
+import "../styles/styles_main.css";
 
 function ProjectSection() {
 	// Render each project component based on project_data
@@ -9,7 +11,12 @@ function ProjectSection() {
 		<Project key={p.id} proj={p} />
 	));
 
-	return <div className="project_section">{project_components}</div>;
+	return (
+		<div className="section_div">
+			<Section key="projects" title="Projects" />
+			{project_components}
+		</div>
+	);
 }
 
 export default ProjectSection;

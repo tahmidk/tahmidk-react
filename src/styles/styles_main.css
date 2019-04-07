@@ -6,9 +6,6 @@
 	min-height: 100%;
 	height: 100%;
 	margin: 0 auto;
-
-	/* Background options */
-	background-color: #0e0e0e;
 }
 
 html,
@@ -20,10 +17,9 @@ body {
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 	touch-action: manipulation;
-}
 
-#root {
-	height: 100%;
+	/* Background options */
+	background-color: #182731;
 }
 
 code {
@@ -31,57 +27,15 @@ code {
 		monospace;
 }
 
-.main_content {
-	/* Position options */
-	max-width: 70%;
-	width: 100%;
-	min-height: 100%;
-	height: 100%;
-	float: left;
-}
-
-/* Home section styles */
-.sec_home {
-	/* Position options */
-	text-align: left;
-	min-height: 50em;
-	max-width: 95%;
-	width: 100%;
-	margin: 1em;
-	padding: 15em 2em 3em 10em;
-
-	/* Borter options */
-	border: 1px solid #cebb54;
-	box-sizing: border-box;
-
-	/* Background options */
-	background-image: url("../images/body_bg.jpg");
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	background-position: center;
-	background-size: cover;
-	background-color: #191919;
-	background-blend-mode: soft-light;
-}
-.greeting_title_div {
-	border-bottom: 1px solid #b9ae6f;
-	padding-bottom: 0.5em;
-	margin-right: 10em;
-}
-.greeting_title {
-	font-family: Raleway, sans-serif;
-	font-size: 5em;
-	font-weight: 900;
-	font-variant: petite-caps;
-	color: #cebb54;
-}
-.greeting_message_div {
-	margin-right: 15em;
-	margin-left: 4em;
-	color: #fff;
-	font-size: 1.25em;
-}
-
 h2 {
 	font-family: "Raleway", sans-serif;
+}
+
+.section_div {
+	width: 1400px;
+	height: auto;
+	padding: 15em;
+	margin: 5em auto;
+	font-family: "Raleway", sans-serif;
+	color: #ffffff;
 }

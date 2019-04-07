@@ -8,11 +8,11 @@
 const project_data = [
 	{
 		id: 1,
-		name: "Project Title",
+		name: "Modern Chess",
 		time: "SUM 2017",
 		tags: ["C++", "C#"],
 		desc: "Project description",
-		img: "./path/to/img"
+		img: "modern_chess.jpg"
 	},
 	{
 		id: 2,
@@ -20,7 +20,7 @@ const project_data = [
 		time: "SUM 2018",
 		tags: ["JS", "Java"],
 		desc: "Project description 2",
-		img: "./path/to/img2"
+		img: "uci_intern.jpg"
 	}
 ];
 
