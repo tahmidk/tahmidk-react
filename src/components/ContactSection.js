@@ -1,6 +1,6 @@
 import React from "react";
 import Section from "./Section";
-import resume from "../Resume.pdf";
+import resume from "../resume.pdf";
 import "../styles/styles_contact.css";
 
 class ContactSection extends React.Component {

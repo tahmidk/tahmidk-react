@@ -57,7 +57,7 @@ const project_data = [
 		time: "Apr 2017",
 		tags: "Java",
 		desc:
-			"Programmed android keyboard with a button to insert emojis based on facial expression using Microsoft’s Cognitive Recognition API in a team of 4. Team divided work by pair; my subteam was mainly responsible for front-end development and implementation of a keyboard button to trigger Microsoft Cognitive Recognition function",
+			"Programmed an android keyboard with a button to insert emojis based on facial expression using Microsoft’s Cognitive Recognition API in a team of 4. Project implemented in Android Studio IDE. Team divided work by pair; my subteam was mainly responsible for front-end development and implementation of a keyboard button to trigger Microsoft Cognitive Recognition function",
 		img: "emoji.jpg"
 	},
 	{
