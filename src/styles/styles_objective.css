@@ -1,0 +1,13 @@
+.objective_div {
+	margin: 1em auto;
+	padding: 2em;
+	background-color: #4acdff;
+	width: 75%;
+	border-radius: 2em;
+}
+
+.objective_text {
+	font-size: 1.5em;
+	font-weight: 600;
+	color: #000000b5;
+}

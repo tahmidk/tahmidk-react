@@ -91,6 +91,7 @@ class Project extends React.Component {
 						draggable="false"
 						className="project_img"
 						src={require(`../images/${img.toLowerCase()}`)}
+						alt="Project Image"
 					/>
 				</div>
 				<div className="project_details_div">

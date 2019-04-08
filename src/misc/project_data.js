@@ -66,7 +66,7 @@ const project_data = [
 		time: "Dec 2015",
 		tags: "Java",
 		desc:
-			"Programmed a multiplayer game complete with a menu, customized graphics and animations using the JavaFX library. Demonstrated project at a project fair",
+			"Programmed a multiplayer game complete with a menu, customized graphics and animations using the JavaFX library. Implemented and debugged in the Eclipse IDE and demonstrated project at a project fair",
 		img: "ultimate_ttt.jpg"
 	},
 	{

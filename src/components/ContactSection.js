@@ -42,6 +42,7 @@ class ContactSection extends React.Component {
 									draggable="false"
 									className="icon"
 									src={require("../images/phone.png")}
+									alt="phone_ico"
 								/>
 							</div>
 							<div className="contact_info">
@@ -54,6 +55,7 @@ class ContactSection extends React.Component {
 									draggable="false"
 									className="icon"
 									src={require("../images/email.png")}
+									alt="email_ico"
 								/>
 							</div>
 							<div className="contact_info">
@@ -68,6 +70,7 @@ class ContactSection extends React.Component {
 									className="link_icon"
 									id="github"
 									src={require("../images/github.png")}
+									alt="github_ico"
 									/*
 								style={this.state.github_style}
 								onMouseEnter={this.handle_mouse_enter}
@@ -83,6 +86,7 @@ class ContactSection extends React.Component {
 									className="link_icon"
 									id="linkedin"
 									src={require("../images/linkedin.png")}
+									alt="linkedin_ico"
 									/*
 								style={this.state.linkedin_style}
 								onMouseEnter={this.handle_mouse_enter}
@@ -95,6 +99,7 @@ class ContactSection extends React.Component {
 									className="link_icon"
 									id="resume"
 									src={require("../images/resume.png")}
+									alt="resume_ico"
 									/*
 								style={this.state.resume_style}
 								onMouseEnter={this.handle_mouse_enter}

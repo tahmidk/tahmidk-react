@@ -2,7 +2,13 @@ import React from "react";
 import "../styles/styles_home.css";
 
 function Home() {
-	const greeting = "Good Afternoon!";
+	const date = new Date();
+	const hour = date.getHours();
+	let greeting;
+
+	if (hour < 12) greeting = "Good Morning";
+	else if (hour > 12 && hour < 17) greeting = "Good Afternoon";
+	else greeting = "Good Evening";
 
 	return (
 		<div className="greeting_div">
