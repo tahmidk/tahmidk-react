@@ -2,9 +2,9 @@
 	"name": "tahmidk-react",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://tahmidk.github.io",
+	"homepage": "https://tahmidk.github.io/tahmidk-react/",
 	"devDependencies": {
-		"gh-pages": "^1.0.0",
+		"gh-pages": "^1.2.0",
 		"react-scripts": "1.0.13"
 	},
 	"dependencies": {
