@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/tahmidk-react/precache-manifest.599474e5d270b10e6c4177f54aa2f225.js"
+  "/tahmidk-react/precache-manifest.071b3b89b7092bf56c9f8600be693ca6.js"
 );
 
 workbox.clientsClaim();

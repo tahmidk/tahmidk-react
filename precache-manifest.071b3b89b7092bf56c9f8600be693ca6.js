@@ -80,7 +80,7 @@ self.__precacheManifest = [
     "url": "/tahmidk-react/static/media/ultimate_ttt.fb4a7819.jpg"
   },
   {
-    "revision": "8346a7e270c3fb4db8467ce26a8d3ba1",
+    "revision": "3387316ead8a4586defe464dcc32d308",
     "url": "/tahmidk-react/index.html"
   }
 ];
